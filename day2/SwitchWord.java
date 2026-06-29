@@ -17,6 +17,7 @@ public class SwitchWord {
         System.out.println(result);
     }
     public static void main(String[] args) {
+        
         switchWord("123456");
     }
 }
