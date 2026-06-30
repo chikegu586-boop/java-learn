@@ -1,4 +1,4 @@
-package day2;
+package  day1;
 //调换输入字符串的顺序
 //e.g:
 //输出前： 123456
